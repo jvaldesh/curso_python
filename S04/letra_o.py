@@ -14,3 +14,5 @@ def letra_o(n):
     letra += "\n" + header
 
     return letra
+
+print(letra_o(5))
